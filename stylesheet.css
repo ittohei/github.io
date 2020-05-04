@@ -9,7 +9,8 @@
   padding:20px 40px;
   font-size: 36px;
   }
-li{
+header-list li{
+  list-style:none;
   float:left;
   padding: 20px 10px;
   
